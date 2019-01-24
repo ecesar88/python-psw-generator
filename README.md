@@ -1,4 +1,5 @@
 # *python-psw-generator*
+![Banner](/images/banner.png)
 ## A simple python program to generate passwords
 
 ### Usage:
