@@ -14,11 +14,11 @@ optional arguments:
   	-l LENGTH       Length: The lenght of the password to be generated
 					(default=25 chars long)
  	-t {1,2,3,4,5}  Type: The type of the password to be generated (default= 5).
-                    Possible types are:                                  
-                       1 - UPPERCASE ONLY                                     
-                       2 - lowercase only                                     
-                       3 - 1234567890 only                                    
-                       4 - !@#$%¨&* only                                      
-                       5 - Mixed 12ab!@
+ 						Possible types are:
+ 						1 - UPPERCASE ONLY
+ 						2 - lowercase only
+ 						3 - 1234567890 only
+ 						4 - !@#$%¨&* only
+ 						5 - Mixed 12ab!@
   	-v              Version: Show the program's version and exit.
   ```
