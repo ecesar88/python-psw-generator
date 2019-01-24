@@ -25,7 +25,7 @@ optional arguments:
 
 If no arguments are specified, it will generate an single 25 char long password of type 5 (Mixed)
 
-###*Clone it!*
+###Clone it!
 `wget https://raw.githubusercontent.com/zSucrilhos/python-psw-generator/master/psw-generator-2.0.3.py`
 											*or*
 `git clone https://github.com/zSucrilhos/python-psw-generator`
