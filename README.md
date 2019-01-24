@@ -3,7 +3,7 @@
 
 ### Usage:
 ```
-*$* python psw-generator-2.0.3.py
+$ python psw-generator-2.0.3.py
 usage: psw-generator-2.0.3.py [options]
 psw-generator: A simple python program to generate passwords
 
