@@ -20,5 +20,5 @@ optional arguments:
                        3 - 1234567890 only                                    
                        4 - !@#$%¨&* only                                      
                        5 - Mixed 12ab!@
-  -v              Version: Show the program's version and exit.
+  	-v              Version: Show the program's version and exit.
   ```
